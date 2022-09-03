@@ -7,7 +7,9 @@
 /coverage
 
 # production
-/build
+# this project is so old that it might never build again in future hardwares and versions
+# so pushing build files directly for one last time
+# /build
 
 # misc
 .DS_Store
